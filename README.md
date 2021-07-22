@@ -10,7 +10,7 @@ go to cd codingassesment-main
 
 then install node modules
 
-##npm install
+### `npm install`
 
 then run
 
