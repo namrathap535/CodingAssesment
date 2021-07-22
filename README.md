@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+go to cd codingassesment-main
+
+then install node modules
+
+##npm install
+
+then run
+
 ### `npm start`
 
 Runs the app in the development mode.\
